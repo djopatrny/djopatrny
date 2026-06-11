@@ -1,4 +1,4 @@
-# Don't take it too serious. It wasn't to begin with.
+# Quiet down. Tryin to sleep
 
 <!--
 **djopatrny/djopatrny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
