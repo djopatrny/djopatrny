@@ -1,4 +1,4 @@
-# Don't take it too seriously. It wasn't to begin with.
+# Don't take it too serious. It wasn't to begin with.
 
 <!--
 **djopatrny/djopatrny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
