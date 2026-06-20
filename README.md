@@ -1,7 +1,7 @@
 
+# You dare question the word of the almighty Jimmy?
 <img width="1152" height="512" alt="shot_19_k2" src="https://github.com/user-attachments/assets/f6b2d5cd-719a-47d4-a142-5ca7ac88d66b" />
 
-# You dare question the word of the almighty Jimmy?
 
 <!--
 **djopatrny/djopatrny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
